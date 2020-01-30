@@ -12,6 +12,6 @@ my_array
 
 end 
 
-def s_array_collect(array)
+def square_array_collect(array)
     my_value.collect {|n| n*2}
 end	
